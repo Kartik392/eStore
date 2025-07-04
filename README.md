@@ -22,4 +22,3 @@ Welcome to the **Online Ice Cream Store** homepage! This project is a part of a 
 - **CSS3 / Bootstrap** – For styling and responsiveness
 - **JavaScript** – For interactivity (if used)
 - **Images & Icons** – For visual enhancement
-
