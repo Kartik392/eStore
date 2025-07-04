@@ -22,3 +22,9 @@ Welcome to the **Online Ice Cream Store** homepage! This project is a part of a 
 - **CSS3 / Bootstrap** – For styling and responsiveness
 - **JavaScript** – For interactivity (if used)
 - **Images & Icons** – For visual enhancement
+
+---
+
+## Screenshot
+
+https://github.com/Kartik392/eStore/blob/6947c6a54b699ec91f7be6ac715e285683e9f752/eShop.png
